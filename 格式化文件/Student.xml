@@ -1,0 +1,15 @@
+<Schooler xmlns:student="http://my_student" xmlns:room="http://my_room">
+    <Teacher>
+
+    </Teacher>
+    <Student>
+        <student:Name>LiuYing</student:Name>
+        <Age>23</Age>
+    </Student>
+
+    <Schoolmsg>
+        <room:Name>2014</room:Name>
+        <Location>1-23-1</Location>
+    </Schoolmsg>
+
+</Schooler>
