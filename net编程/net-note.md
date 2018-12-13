@@ -110,6 +110,25 @@
         - File： 文件名称， 例如 Klar-1.1-RC1.apk
         - 如果想完整精确表示ftp上某一个文件，需要上述三部分组合在一起
         - 案例p06
-  
+# Mail编程
+## 电子邮件的历史
+- 起源：
+    - 1969 Leonard K. 教授发给同事的“LO”
+    - 1971 美国国防部自主的啊怕网（Arpanet）的通讯机制
+    - 通讯地址里用@.
+    - 1987年中国的第一份电子邮件“Across the Great Wall we can reach every corner in the world”        
+- 管理程序
+    - Euroda使邮件普及
+    - Netscape，outlook，foxmail
+    - Hotmail使用浏览器发送邮件
+    - 官网资料 https://docs.python.org/3/library/email.mime.html
+    
+## 邮件工作流程
+
+- MUA(MailUserAgent)邮件用户代理
+
+- MTA(MailTransferAgent)邮件传输代理
+
+- MDA(MailDeliveryAgent)邮件投递代理
 
               
